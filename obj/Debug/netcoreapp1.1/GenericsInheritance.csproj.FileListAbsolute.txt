@@ -1,0 +1,9 @@
+C:\david\GenericsInheritance\GenericsInheritance\bin\Debug\netcoreapp1.1\GenericsInheritance.deps.json
+C:\david\GenericsInheritance\GenericsInheritance\bin\Debug\netcoreapp1.1\GenericsInheritance.runtimeconfig.json
+C:\david\GenericsInheritance\GenericsInheritance\bin\Debug\netcoreapp1.1\GenericsInheritance.runtimeconfig.dev.json
+C:\david\GenericsInheritance\GenericsInheritance\bin\Debug\netcoreapp1.1\GenericsInheritance.dll
+C:\david\GenericsInheritance\GenericsInheritance\bin\Debug\netcoreapp1.1\GenericsInheritance.pdb
+C:\david\GenericsInheritance\GenericsInheritance\obj\Debug\netcoreapp1.1\GenericsInheritance.csprojResolveAssemblyReference.cache
+C:\david\GenericsInheritance\GenericsInheritance\obj\Debug\netcoreapp1.1\GenericsInheritance.AssemblyInfo.cs
+C:\david\GenericsInheritance\GenericsInheritance\obj\Debug\netcoreapp1.1\GenericsInheritance.dll
+C:\david\GenericsInheritance\GenericsInheritance\obj\Debug\netcoreapp1.1\GenericsInheritance.pdb
